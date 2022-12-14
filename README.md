@@ -14,7 +14,7 @@ Equipo de Trabajo
 | DEV 1 | Victor San Juan Brinck |
 | DEV 2 | Victor San Juan Brinck |
 | MQT | Victor San Juan Brinck |
-| ![Build Status](https://badge.buildkite.com/sample.svg?status=passing) | Miro :  http://miro.proyectobase.cl  |
+
 
 
 ## Servidores
