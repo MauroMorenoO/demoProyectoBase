@@ -1,6 +1,7 @@
 
 
 ![N|Solid](https://www.aeurus.cl/imagenes/template/logo.svg)
+
 ![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)              
 ### PROYECTO BASE
 Equipo de Trabajo
