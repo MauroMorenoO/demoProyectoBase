@@ -25,19 +25,22 @@ Equipo de Trabajo
  |![Build Status](https://badge.buildkite.com/sample.svg?status=passing) Diseño: HTTP://figma.proyectobase.cl |
  |![Build Status](https://badge.buildkite.com/sample.svg?status=passing) Maqueta:HTTP://proyectobase.aeurus.cl/maqueta |
    
-   #### Servicios Desarrollo
-  |Servicios Base |
+   
+  |Servicios Desarrollo |
  |------ |
   |![Build Status](https://badge.buildkite.com/sample.svg?status=passing)      Web: HTTP://proyectobase.aeurus.cl |
   |![Build Status](https://badge.buildkite.com/sample.svg?status=failing)    Admin: HTTP://proyectobase.aeurus.cl/admin |
 
- #### Servicios Test
-  ![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)      Web: HTTP://proyectobase.aeurus.cl
-  ![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)    Admin: HTTP://proyectobase.aeurus.cl/admin
-    
- #### Servicios Producción
-  ![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)      Web: HTTP://proyectobase.aeurus.cl
-  ![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)    Admin: HTTP://proyectobase.aeurus.cl/admin
+ |Servicios Testing |
+ |------ |
+  |![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)      Web: HTTP://proyectobase.aeurus.cl |
+  |![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)    Admin: HTTP://proyectobase.aeurus.cl/admin |
+
+  |Servicios Producción |
+ |------ |
+  |![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)      Web: HTTP://proyectobase.aeurus.cl |
+  |![Build Status](https://badge.buildkite.com/sample.svg?status=unknown)    Admin: HTTP://proyectobase.aeurus.cl/admin |
+
     
         
     
