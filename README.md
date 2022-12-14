@@ -19,8 +19,8 @@ Equipo de Trabajo
 ## Servidores
 
    ##### Servicios Base
- 
-| ------ | ------ |
+ |Servicios Base |
+ |------ |
  | ![Build Status](https://badge.buildkite.com/sample.svg?status=passing) Miro :  http://miro.proyectobase.cl  |
  |![Build Status](https://badge.buildkite.com/sample.svg?status=passing) Diseño: HTTP://figma.proyectobase.cl |
  |![Build Status](https://badge.buildkite.com/sample.svg?status=passing) Maqueta:HTTP://proyectobase.aeurus.cl/maqueta |
